@@ -22,7 +22,7 @@ namespace Пробна
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); //jhgjhgj
         }
     }
 }
